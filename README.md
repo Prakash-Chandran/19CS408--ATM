@@ -50,19 +50,10 @@ There are three types of layer. They are
 
 ![Screenshot 2024-10-21 194835](https://github.com/user-attachments/assets/2f38b564-72c8-4973-b243-dbcb8884e028)
 
-## PACKAGE DIAGRAM
-A package diagram is represented as a folder shown as a large rectangle with a 
-top attached to its upper left corner. A package may contain both sub ordinate package 
-and ordinary model elements. All uml models and diagrams are organized into package. 
-A package diagram in unified modeling language that depicts the dependencies 
-between the packages that make up a model. A Package Diagram (PD) shows a grouping 
-of elements in the OO model, and is a Cradle extension to UML PDs can be used to 
-show groups of classes in Class Diagrams (CDs), groups of components or processes in 
-Component Diagrams (CPDs), or groups of processors in Deployment Diagrams (DPDs). 
-There are three types of layer. They are 
-1.User interface layer 
-2.Domain layer 
-3.Technical services layer
+## SEQUENCE DIAGRAM
+A sequence diagram in Unified Modeling Language (UML) is a kind of
+interaction diagram that shows how processes operate with one another and in what
+order.
 
 ![image](https://github.com/user-attachments/assets/fdc5224b-d7c6-4a7b-8550-3161b94f6a34)
 
