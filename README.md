@@ -1,4 +1,4 @@
-# 19CS408--ATM
+## EX:1 UML Diagrams for ATM and Banking system
 ```
 NAME: PRAKASH C
 REG NO: 212223240122
