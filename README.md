@@ -1,4 +1,4 @@
-# EX:1 UML Diagrams for ATM and Banking system
+# EX:1 ATM and Banking system
 ### NAME: PRAKASH C
 ### REG NO: 212223240122
 ### DATE: 13.09.2024
