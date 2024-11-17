@@ -1,11 +1,16 @@
-## EX:1 UML Diagrams for ATM and Banking system
-```
-NAME: PRAKASH C
-REG NO: 212223240122
-```
-# Aim :
-To create UML Diagrams for ATM & Banking systems using StarUML.
+# EX:1 UML Diagrams for ATM and Banking system
+### NAME: PRAKASH C
+### REG NO: 212223240122
+### DATE: 13.09.2024
+## AIM:
 
+To study the problem statement, SRS document and draw all the UML diagrams of 
+ATM System. 
+
+## PROBLEM STATEMENT: 
+
+To create ATM System software that will meet the needs of the applicant and help 
+them to withdraw money,deposit. 
 
 ## SOFTWARE REQUIREMENTS: 
 
@@ -24,7 +29,7 @@ of interactions between systems and users in a particular environment and relate
 particular goal. It is represented using ellipse. Actor is any external entity that makes 
 use of the system being modeled. 
 
-![image](https://github.com/user-attachments/assets/77076d28-059b-45b7-8081-1bd4367bd784)
+![123](https://github.com/user-attachments/assets/e4e2357d-c858-4c9d-9755-c2fc8b2be4bf)
 
 ## CLASS DIAGRAM
 A class is drawn as rectangle box with three compartments or 
@@ -32,7 +37,16 @@ components separated by horizontal lines. The top compartment holds the class na
 and middle compartment holds the attribute and bottom compartment holds list of 
 operations.
 
-![image](https://github.com/user-attachments/assets/96f14dad-fc15-4392-be01-76c92c703f0c)
+![123456](https://github.com/user-attachments/assets/4d1c3b9d-c5dc-44e3-a33c-9c0145f334cd)
+
+## COMMUNICATION DIAGRAM
+A collaboration diagram is similar to sequence diagram but the message in 
+number format. In a collaboration diagram sequence diagram is indicated by the 
+numbering the message. A collaboration diagram, also called a communication 
+diagram or interaction diagram, A sophisticated modeling tool can easily convert a 
+collaboration diagram into a sequence diagram and the vice versa.
+
+![12345](https://github.com/user-attachments/assets/ef1631bf-b67f-48bd-8001-1bd8ecee5eeb)
 
 ## PACKAGE DIAGRAM
 A package diagram is represented as a folder shown as a large rectangle with a 
@@ -50,19 +64,13 @@ There are three types of layer. They are
 
 ![Screenshot 2024-10-21 194835](https://github.com/user-attachments/assets/2f38b564-72c8-4973-b243-dbcb8884e028)
 
-## SEQUENCE DIAGRAM
-A sequence diagram in Unified Modeling Language (UML) is a kind of
-interaction diagram that shows how processes operate with one another and in what
-order.
-
-![image](https://github.com/user-attachments/assets/fdc5224b-d7c6-4a7b-8550-3161b94f6a34)
 
 ## SEQUENCE DIAGRAM
 A sequence diagram in Unified Modeling Language (UML) is a kind of 
 interaction diagram that shows how processes operate with one another and in what 
 order.
 
-![image](https://github.com/user-attachments/assets/b4222bce-3d32-4704-89b8-abc45c3cdb6f)
+![1234](https://github.com/user-attachments/assets/4ed6234b-dc63-4410-97f4-d5bdf19844eb)
 
 ## ACTIVITY DIAGRAM
 An activity diagram is a variation or special case of a state machine in which 
@@ -71,9 +79,8 @@ triggered by the completion of operation. The purpose is to provide view of clos
 what is going on inside a use case or among several classes. An activity is shown as 
 rounded box containing the name of operation
 
-![image](https://github.com/user-attachments/assets/d27702e1-2bd7-4b4f-a13e-eb6ec8d4c15c)
+![1234567](https://github.com/user-attachments/assets/33795e03-c440-4dc6-839b-f5139000fcd0)
 
-# RESULT:
+## RESULT:
 
-Thus the ATM and banking System project was executed and the output was verified.
-
+Hence, Use Case, Activity, Sequence, Class and Communication diagrams for ATM banking system is successfully drawn.
